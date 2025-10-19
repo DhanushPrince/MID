@@ -342,7 +342,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- **AWS Bedrock**: For providing Claude 3.5 Sonnet
+- **AWS Bedrock**: For providing AWS nova pro
 - **Perplexity AI**: For advanced search capabilities
 - **Strands Framework**: For multi-agent orchestration
 - **React Team**: For the amazing UI library
